@@ -1,0 +1,3 @@
+- git init을 통해서 local respository에 .git을 initialize할 수 있다.
+- git add는 commit할 폴더 및 파일들을 지정해 준다.
+- git commit은 변경사항들을 저장해줍니다. 
